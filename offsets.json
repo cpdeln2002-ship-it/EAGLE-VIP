@@ -27,6 +27,13 @@
   "BasePart_Position": "0x0",
   "BasePart_Rotation": "0x0",
   "BasePart_BrickColor": "0x0",
+  "Primitive_Size": "0x0",
+  "Primitive_Position": "0x0",
+  "Primitive_Rotation": "0x0",
+  "Team_BrickColor": "0x0",
   "DataModel_FakeDataModel": "0x0",
-  "DataModel_RealDataModel": "0x0"
+  "DataModel_RealDataModel": "0x0",
+  "VisualEngine_Pointer": "0x0",
+  "VisualEngine_Dimensions": "0x0",
+  "VisualEngine_ViewMatrix": "0x0"
 }
