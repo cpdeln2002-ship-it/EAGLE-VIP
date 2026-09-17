@@ -1,0 +1,10 @@
+{
+  "Camera_CameraSubject": "0xc8",
+  "Camera_FieldOfView": "0x140",
+  "Humanoid_Health": "0x190",
+  "Humanoid_MaxHealth": "0x1a8",
+  "Humanoid_HumanoidRootPart": "0x470",
+  "Humanoid_Walkspeed": "0x1d0",
+  "Player_LocalPlayer": "0x130",
+  "Workspace_CurrentCamera": "0x4b8"
+}
